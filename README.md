@@ -4,16 +4,6 @@ Hi! I'm **Muhammed Inshad**, a passionate **Frontend Developer** from Kerala, In
 
 <img src="https://i.pinimg.com/1200x/e1/66/78/e16678e62c0cc7e3422051faf512cee6.jpg">
 
-
-## 🚀 About Me
-
-- 🎓 **Software Development Intern** at Bridgeon Solutions LLP
-- 💻 Specializing in **React.js** and modern frontend development
-- 🎨 Proficient with **Tailwind CSS** for stunning UI designs
-- 📱 Building responsive, user-centric web applications
-- 🔗 Passionate about **API integration** and backend connectivity
-- 📚 Continuously learning **JavaScript**, **Python**, and web development best practices
-
 ---
 
 ## 🛠️ Technologies and tools I work with
@@ -41,6 +31,15 @@ Hi! I'm **Muhammed Inshad**, a passionate **Frontend Developer** from Kerala, In
     
   </tr>
 </table>
+
+## 🚀 About Me
+
+- 🎓 **Software Development Intern** at Bridgeon Solutions LLP
+- 💻 Specializing in **React.js** and modern frontend development
+- 🎨 Proficient with **Tailwind CSS** for stunning UI designs
+- 📱 Building responsive, user-centric web applications
+- 🔗 Passionate about **API integration** and backend connectivity
+- 📚 Continuously learning **JavaScript**, **Python**, and web development best practices
 
 
 ### Also Learning
